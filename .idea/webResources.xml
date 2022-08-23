@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/Inheritance/lab/food/project" />
+            <path value="file://$PROJECT_DIR$/Inheritance/lab/single_inheritance/project" />
           </resourceRoots>
         </entryData>
       </entry>
